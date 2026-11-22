@@ -1,0 +1,24 @@
+{
+  "name": "magpie-gateway",
+  "version": "1.0.0",
+  "description": "Bridge an OpenAI-compatible gateway into magpie as provider 'mgw'",
+  "type": "module",
+  "main": "./index.mjs",
+  "files": ["index.mjs", "README.md"],
+  "keywords": [
+    "opencode",
+    "opencode-plugin",
+    "magpie",
+    "magpie-plugin",
+    "gateway",
+    "openai-compatible"
+  ],
+  "license": "MIT",
+  "magpie": {
+    "name": "magpie-gateway",
+    "summary": {
+      "en": "Bridge an OpenAI-compatible gateway as the 'mgw' provider",
+      "zh": "把 OpenAI 兼容网关桥接为 mgw provider"
+    }
+  }
+}
