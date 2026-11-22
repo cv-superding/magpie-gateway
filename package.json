@@ -4,7 +4,11 @@
   "description": "Bridge an OpenAI-compatible gateway into magpie as provider 'mgw'",
   "type": "module",
   "main": "./index.mjs",
-  "files": ["index.mjs", "README.md"],
+  "files": [
+    "index.mjs",
+    "README.md",
+    "docs/assets"
+  ],
   "keywords": [
     "opencode",
     "opencode-plugin",
