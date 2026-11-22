@@ -2,8 +2,9 @@
 
 ![magpie-gateway banner](docs/assets/banner-magpie-gateway.png)
 
+<img src="https://img.shields.io/badge/license-MIT-blue" alt="license"> <img src="https://img.shields.io/badge/magpie-plugin-brightgreen" alt="magpie"> <img src="https://img.shields.io/badge/provider-mgw-purple" alt="provider"> <img src="https://img.shields.io/badge/node-%3E%3D22-grey" alt="node"> <img src="https://img.shields.io/badge/PRs-welcome-orange" alt="PRs">
+
 <img src="docs/assets/icon-magpie-gateway.png" alt="magpie-gateway icon" width="96" align="right">
-![license](https://img.shields.io/badge/license-MIT-blue) ![magpie](https://img.shields.io/badge/magpie-plugin-brightgreen) ![provider](https://img.shields.io/badge/provider-mgw-purple) ![node](https://img.shields.io/badge/node-%3E%3D22-grey) ![PRs](https://img.shields.io/badge/PRs-welcome-orange)
 
 
 一个把 **OpenAI 兼容网关**桥接成 magpie provider `mgw` 的插件。
