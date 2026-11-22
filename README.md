@@ -2,7 +2,7 @@
 
 一个把 **OpenAI 兼容网关**桥接成 magpie provider `mgw` 的插件。
 
-这个插件只做一件事：让 magpie 里的所有 agent 能用网关里的模型。它**没有管理页面**，不碰 SSH，不管服务器——那些事在配套的 [qoder-ssh](../qoder-ssh/) 插件里。
+这个插件只做一件事：让 magpie 里的所有 agent 能用网关里的模型。它**没有管理页面**，不碰 SSH，不管服务器——那些事在配套的 [qoder-ssh](https://github.com/cv-superding/magpie-qoder-ssh) 插件里。
 
 ## 它解决什么问题
 
