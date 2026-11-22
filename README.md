@@ -1,5 +1,11 @@
 # magpie-gateway
 
+![magpie-gateway banner](docs/assets/banner-magpie-gateway.png)
+
+<img src="docs/assets/icon-magpie-gateway.png" alt="magpie-gateway icon" width="96" align="right">
+![license](https://img.shields.io/badge/license-MIT-blue) ![magpie](https://img.shields.io/badge/magpie-plugin-brightgreen) ![provider](https://img.shields.io/badge/provider-mgw-purple) ![node](https://img.shields.io/badge/node-%3E%3D22-grey) ![PRs](https://img.shields.io/badge/PRs-welcome-orange)
+
+
 一个把 **OpenAI 兼容网关**桥接成 magpie provider `mgw` 的插件。
 
 这个插件只做一件事：让 magpie 里的所有 agent 能用网关里的模型。它**没有管理页面**，不碰 SSH，不管服务器——那些事在配套的 [qoder-ssh](https://github.com/cv-superding/magpie-qoder-ssh) 插件里。
